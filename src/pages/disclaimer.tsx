@@ -10,7 +10,7 @@ const Disclaimer = () => {
           data-tooltip-id="tooltip"
           data-tooltip-content="Rive"
         />
-        <p>Your Personal Streaming Oasis</p>
+        <p>DXStream App Source</p>
       </div>
       <div className={styles.settings}>
         <h1>Disclaimer</h1>
