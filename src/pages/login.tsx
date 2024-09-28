@@ -57,7 +57,7 @@ const LoginPage = () => {
           SignIn with <span className={styles.highlight}>Google</span>
         </h4>
         <h4>
-          Become Rive member!{" "}
+          Become DXStreamAppSource member!{" "}
           <Link href="/signup" className={styles.highlight}>
             Signup
           </Link>
