@@ -10,12 +10,12 @@ import { useState, useEffect } from "react";
 import NProgress from "nprogress";
 import "@/styles/nprogress.scss";
 import "react-loading-skeleton/dist/skeleton.css";
-import { GoogleAnalytics } from "@next/third-parties/google";
+// import { GoogleAnalytics } from "@next/third-parties/google";
 
 export default function App({ Component, pageProps }: any) {
   const [isLoading, setIsLoading] = useState(false);
   NProgress.configure({ showSpinner: false });
-  const GTag: any = process.env.NEXT_PUBLIC_GT_MEASUREMENT_ID;
+  // const GTag: any = process.env.NEXT_PUBLIC_GT_MEASUREMENT_ID;
   // NProgress.configure({
   //   template: '<div class="bar" role="bar"><div class="peg"></div></div>'
   // });
@@ -77,7 +77,6 @@ export default function App({ Component, pageProps }: any) {
         <Tooltip id="tooltip" className="react-tooltip" />
         <Component {...pageProps} />
       </Layout>
-      <GoogleAnalytics gaId={GTag} />
     </>
   );
 }
