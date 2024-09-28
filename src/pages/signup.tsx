@@ -58,7 +58,7 @@ const SignupPage = () => {
           </>
         </div>
         <h4>
-          Already a Rive member!{" "}
+          Already a DXStreamAppSource member!{" "}
           <Link href="/login" className={styles.highlight}>
             Login
           </Link>
