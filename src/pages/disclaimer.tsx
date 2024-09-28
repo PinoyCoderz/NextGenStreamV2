@@ -16,13 +16,13 @@ const Disclaimer = () => {
         <h1>Disclaimer</h1>
         <div className={styles.group2}>
           <p>
-            Rive does not host any files, it merely links to 3rd party services.
+            DXStreamAppSource does not host any files, it merely links to 3rd party services.
           </p>
           <p>
             Legal issues should be taken up with the file hosts and providers.
           </p>
           <p>
-            Rive is not responsible for any media files shown by the video
+            DXStreamAppSource is not responsible for any media files shown by the video
             providers.
           </p>
         </div>
