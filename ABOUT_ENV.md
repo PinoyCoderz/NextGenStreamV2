@@ -116,8 +116,8 @@ If there are anymore env vars left, give them any random values, as they were us
 
 > [!IMPORTANT]
 >
-> Rive-Next does not host any files, it merely links to 3rd party services.  
+> DXStreamAppSource does not host any files, it merely links to 3rd party services.  
 > Legal issues should be taken up with the file hosts and providers.  
-> Rive-Next is not responsible for any media files shown by the video providers.
+> DXStreamAppSource is not responsible for any media files shown by the video providers.
 
 Happy Coding :)
