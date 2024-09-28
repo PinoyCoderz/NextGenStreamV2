@@ -4,9 +4,9 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "Rive",
-  "short_name": "Rive",
-  "description": "Your Personal Streaming Oasis.",
+  "name": "DXStreamAppSource",
+  "short_name": "DXStreamAppSource",
+  "description": "Source for your Streaming",
   "icons": [
     {
       "src": "/icons/icon-192x192.png",
