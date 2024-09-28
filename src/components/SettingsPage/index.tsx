@@ -173,7 +173,7 @@ const SettingsPage = ({
           >
             Disclaimer
           </Link>
-          <Link href="mailto:kumarashishranjan4971@hotmail.com">
+          <Link href="mailto:">
             Contact Us
           </Link>
           <Link
@@ -187,10 +187,10 @@ const SettingsPage = ({
         </div>
         <h1>Links</h1>
         <div className={styles.group}>
-          <Link href={"https://github.com/Developabile/rive-next"}>
+          <Link href={""}>
             <FaGithub /> Github
           </Link>
-          <Link href={"https://discord.gg/6xJmJja8fV"}>
+          <Link href={""}>
             <FaDiscord /> Discord
           </Link>
           <Link href={"/"}>
