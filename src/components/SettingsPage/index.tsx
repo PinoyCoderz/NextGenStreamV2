@@ -52,7 +52,7 @@ const SettingsPage = ({
     <div className={`${styles.settingsPage} ${styles.authPage}`}>
       <div className={styles.logo}>
         <img src="/images/logo.svg" alt="logo" />
-        <p>Your Personal Streaming Oasis</p>
+        <p></p>
       </div>
       <div className={styles.settings}>
         <h1>Account</h1>
