@@ -37,11 +37,11 @@ export default function App({ Component, pageProps }: any) {
   return (
     <>
       <Head>
-        <title>Rive</title>
-        <meta name="description" content="Your Personal Streaming Oasis" />
+        <title>DXStreamAppSource</title>
+        <meta name="description" content="DX Stream App Source" />
         <meta
           name="keywords"
-          content="movie, streaming, tv, rive, stream. movie app, tv shows, movie download"
+          content="movie, tv shows, anime"
         />
         <meta
           name="google-site-verification"
@@ -52,7 +52,7 @@ export default function App({ Component, pageProps }: any) {
         <meta name="theme-color" content="#f4f7fe" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-        <meta name="apple-mobile-web-app-title" content="Rive" />
+        <meta name="apple-mobile-web-app-title" content="DXStreamAppSource" />
         <link rel="icon" href="/images/logo512.png" />
         <link rel="apple-touch-icon" href="/images/logo512.png" />
         {/* <link rel="mask-icon" href="/images/logo512.svg" color="#f4f7fe" /> */}
